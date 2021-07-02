@@ -1,4 +1,5 @@
-# Snake-Game
+# Snake-Game   - 
+## Check out Instruction Zone file above to know about project
 It is our first experience towards game development. In this project we have used the basic library of python to create this game that is pygame.
 
 As we have mentioned earlier that it is our first one so to make it perfect we have taken help from online platforms such as google and youtube. By watching videos we get a whole idea to improve this project and add new features in it.
